@@ -1,4 +1,8 @@
 ### Hi there 👋
+_Welcome, what brought you here?_
+
+- 📫 **Email:** [``hnhat.tran@gmail.com``](hnhat.tran@gmail.com)
+- 🤬 **Blame:** If you are using one of my repos and feeling confused. I apologize for the lack of documentation and tutorial as I am still learning to do things properly, and properly documenting my code is one of the things I'm terrible at and haven't got time to invest in 😒.
 
 <!--
 **inspiros/inspiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
