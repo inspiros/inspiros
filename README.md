@@ -6,6 +6,10 @@ _Welcome, what brought you here?_
 
 > _Stand up where meritocracy perished._
 
+#### When will my frustration end? 🤔
+
+<img src="resources/application.jpg" width="400">
+
 <!--
 **inspiros/inspiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
